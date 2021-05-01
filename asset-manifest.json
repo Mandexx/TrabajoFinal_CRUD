@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mandexx/final/static/css/main.d7fb5368.chunk.css",
+    "main.js": "/Mandexx/final/static/js/main.d270a79d.chunk.js",
+    "main.js.map": "/Mandexx/final/static/js/main.d270a79d.chunk.js.map",
+    "runtime-main.js": "/Mandexx/final/static/js/runtime-main.1646ed25.js",
+    "runtime-main.js.map": "/Mandexx/final/static/js/runtime-main.1646ed25.js.map",
+    "static/js/2.31607cec.chunk.js": "/Mandexx/final/static/js/2.31607cec.chunk.js",
+    "static/js/2.31607cec.chunk.js.map": "/Mandexx/final/static/js/2.31607cec.chunk.js.map",
+    "index.html": "/Mandexx/final/index.html",
+    "precache-manifest.5a9c873953df5e5fe19ee4b3a9ac7250.js": "/Mandexx/final/precache-manifest.5a9c873953df5e5fe19ee4b3a9ac7250.js",
+    "service-worker.js": "/Mandexx/final/service-worker.js",
+    "static/css/main.d7fb5368.chunk.css.map": "/Mandexx/final/static/css/main.d7fb5368.chunk.css.map",
+    "static/js/2.31607cec.chunk.js.LICENSE.txt": "/Mandexx/final/static/js/2.31607cec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1646ed25.js",
+    "static/js/2.31607cec.chunk.js",
+    "static/css/main.d7fb5368.chunk.css",
+    "static/js/main.d270a79d.chunk.js"
+  ]
+}
